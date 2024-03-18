@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+  background-color: aliceblue;
+}
+
+.example {
+  height: 100px;
+  width: 100px;
+  background-color: cadetblue;
+}
